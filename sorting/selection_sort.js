@@ -1,5 +1,6 @@
 // time: O(n2)
 // space: O(1)
+// less swap than bubble sort
 
 function swap(arr, index1, index2) {
     let temp = arr[index1];
@@ -30,6 +31,11 @@ console.log(selectionSort([2,3,1,-1]))
 // space: O(1)
 // The amount of memory consumed by the algorithm 
 // does not increase relative to the size of the input array. 
+
+// 当input data is streamed in pieces时用insertion sort - online algorithm
+// can sort the data live as it is received.
+// sorting the most relevant posts in a social media feed 
+// 或者长度很短或nearly sorted -- 同bubble sort
 
 // similar to bubble sort
 // major difference: select the smallest elements 
