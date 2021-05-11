@@ -1,3 +1,4 @@
+// 不考
 // time:O(n2)
 // space: O(1)
 // streaming data

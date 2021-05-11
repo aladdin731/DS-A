@@ -1,3 +1,4 @@
+// 常考
 // time: worst O(n2) ave/best O(n log(n))
 // Although we typically take the worst case when describing Big-O for an algorithm, 
 // the worst case to be an exceedingly rare occurance even if we choose the pivot at random. 

@@ -1,3 +1,4 @@
+// 常考
 // non-comparison, integer sorting 
 // time complexity is superior to every other comparison-based sortign algorithm
 
@@ -31,4 +32,3 @@ function countingSort(arr, max) {
 
 // In an interview setting, always ask the interviewer 
 // if you can be guaranteed that the largest element in the input array is not huge.
-// 
