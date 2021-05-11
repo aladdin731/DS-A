@@ -1,5 +1,5 @@
 // time: O(n2)
-// space: O(n)
+// space: O(1)
 
 function swap(arr, index1, index2) {
     let temp = arr[index1];
